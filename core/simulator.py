@@ -59,7 +59,7 @@ class Simulator:
             if(self.verbose): input("\nPress Enter to advance to the next simulated time...\n")
             self._advance_time()
 
-        self.log("\n🎉 All tasks processed. Simulation complete, Your Majesty.\n")
+        self.log("\nAll tasks processed. Simulation complete\n")
         self.metrics.print_summary()
         self.metrics.save_all_logs()
 
