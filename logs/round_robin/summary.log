@@ -1,0 +1,8 @@
+📊 Scheduler Metrics Summary
+avg_wait_time_ms: 1784.09
+median_wait_time_ms: 0.00
+avg_turnaround_time_ms: 33816.32
+max_wait_time_ms: 45354.00
+tasks_completed: 11203.00
+avg_cpu_utilization: 0.55
+avg_gpu_utilization: 0.18

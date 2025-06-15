@@ -1,0 +1,8 @@
+cluster:
+  num_nodes: 100
+  node_cpu: 192
+  node_gpu: 2
+
+trace_file: "alibaba_trace.csv"
+algorithm: "round_robin"  
+verbose: false
